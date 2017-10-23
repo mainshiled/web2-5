@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+テスト **太文字**, _italic_, 改変
 
-[Link to another page](another-page).
+[別のページ](another-page).
 
 There should be whitespace between paragraphs.
 
