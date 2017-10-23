@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## 別ページです
 
-_yay_
 
-[back](./)
+
+[戻る](./)
